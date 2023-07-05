@@ -11,8 +11,12 @@ Após a conclusão deste projeto, podemos responder as seguintes perguntas de ne
 
 
 
+<img src="comerciobr.png">
 
 
 
+## Conjunto de Dados Utilizado
+Dados disponibilizados pelo <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta">Ministério da Economia.</a>
 
-#### Feito por mim, <a href="https://linkedin.com/in/mario-barcelos"> Mario Barcelos! </a> 
+
+#### Mais informações <a href="https://linkedin.com/in/mario-barcelos"> Mario Barcelos! </a> 
