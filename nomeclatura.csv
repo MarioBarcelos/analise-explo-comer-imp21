@@ -1,0 +1,5 @@
+Nome,Descrição,Arquivo Referência,Chave de cruzamento
+SH - Sistema Harmonizado,"Códigos e descrições do Sistema Harmonizado (Seções, Capítulos-SH2, Posições-SH4 e Subposições-SH6).",NCM_SH.csv,CO_SH6
+Países,Códigos e descrições de países.,PAIS.csv,CO_PAIS
+Unidades da Federação,Códigos e nome das unidades da federação (estados) do Brasil.,UF.csv,CO_UF ou SG_UF
+Municípios,Códigos e nome dos municípios brasileiros. Pode ser utilizada em conjunto com a tabela de UF. Fundamental para utilização junto com o arquivo de dados brutos por municípios domicílio fiscal das empresas,UF_MUN.csv,CO_MUN_GEO
